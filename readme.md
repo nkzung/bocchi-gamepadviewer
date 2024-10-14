@@ -6,4 +6,4 @@ copy the style.css' [raw url](https://raw.githubusercontent.com/nkzung/bocchi-xb
 - russian bocchi by [*u/foxman666*](https://www.reddit.com/r/BocchiTheRock/comments/19ers34/russian_bocchi/) <br />
 - preview BG by [*@MiyariAnotoki*](https://www.pixiv.net/en/artworks/103080258)
 
-![preview](https://github.com/user-attachments/assets/d9ffdc1a-bbcf-457c-80c6-e9659c6498e4)
+![preview](https://github.com/user-attachments/assets/aee02929-d8fc-4009-9a1d-bffef2cd339e)
