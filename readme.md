@@ -7,3 +7,4 @@ copy the raw CSS url ([example](https://raw.githubusercontent.com/nkzung/bocchi-
 - russian bocchi by [*u/foxman666*](https://www.reddit.com/r/BocchiTheRock/comments/19ers34/russian_bocchi/) <br />
 - preview BG by [*@MiyariAnotoki*](https://www.pixiv.net/en/artworks/103080258)
 
+![preview](https://github.com/user-attachments/assets/032e7047-d837-442e-87b8-9805dfa91dea)
